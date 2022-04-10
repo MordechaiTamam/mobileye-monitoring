@@ -1,0 +1,4 @@
+tk
+opentelemetry-api==0.17b0
+opentelemetry-sdk==0.17b0
+opentelemetry-exporter-prometheus-remote-write==0.17b0
